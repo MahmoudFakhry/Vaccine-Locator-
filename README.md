@@ -1,1 +1,1 @@
-# Vaccine-Locator
+# Vaccine Locator
